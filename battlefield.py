@@ -1,5 +1,5 @@
-from kaiju import Kaiju
-from jaeger import Jaeger
+from Kaiju import Kaiju
+from Jaeger import Jaeger
 
 
 class Battlefield:

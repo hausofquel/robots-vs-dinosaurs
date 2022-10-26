@@ -1,4 +1,4 @@
-from battlefield import Battlefield
+from Battlefield import Battlefield
 
 battlefield = Battlefield()
 battlefield.run_game()
