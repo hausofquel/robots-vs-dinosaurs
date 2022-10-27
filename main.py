@@ -1,7 +1,12 @@
+# import Battlefield
 from Battlefield import Battlefield
 
-battlefield = Battlefield()
-battlefield.run_game()
+# instatiate battlefield
+
+bf_one = Battlefield()
+
+# run bf's main method
+bf_one.run_game
 
 # As a developer, I want to make at least 7 commits with good, descriptive messages.
 
