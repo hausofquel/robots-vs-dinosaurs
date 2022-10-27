@@ -1,3 +1,6 @@
+from Weapon import Weapon
+
+
 class Jaeger:
     def __init__(self, name):
         self.hp = 100
