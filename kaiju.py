@@ -1,3 +1,6 @@
+from Attack import Attack
+
+
 class Kaiju:
     def __init__(self, name):
         self.hp = 100
